@@ -1,0 +1,8 @@
+The features that were influencing the discounts/promotional offers the most were:
+
+Top 5 Most Important Features:
+total_revenue             0.647091
+total_sales               0.172723
+unique_products           0.135720
+max_quantity              0.031134
+customer_class_encoded    0.013332
